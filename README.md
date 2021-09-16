@@ -1,7 +1,5 @@
 ![Logo](/images/logo.png)
 
-# Demo OneStop
-
 This shows all available _demos_ and _hands-on guides_ for **cloud-native application development** using Red Hat products and relevant open source projects.
 
 Go to [wiki page](https://github.com/redhat-mw-demos/demo-onestop.wiki.git) for more information!
